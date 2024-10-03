@@ -28,7 +28,7 @@ const textos = {
         address: "", // Información no proporcionada
         phone: numeroWhatsApp,
         email: email,
-        facebook: "https://www.facebook.com/Stilo-Africa",
+        facebook: "https://www.facebook.com/profile.php?id=61566943520648&mibextid=JRoKGi",
         instagram: "https://www.instagram.com/",
         whatsappLink: `https://wa.me/${numeroWhatsApp}?text=${mensajeWhatsApp}`
     },
